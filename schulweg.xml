@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schulweg>
+    <person>
+        <nachname>Silvan</nachname>
+        <vorname>Baach</vorname>
+        <abfahrtsOrt>Dachsen</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Andy</nachname>
+        <vorname>Bui</vorname>
+        <abfahrtsOrt>Winterthur</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Naomi</nachname>
+        <vorname>Dhanapal</vorname>
+        <abfahrtsOrt>Gundetswil</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Aaron</nachname>
+        <vorname>Dürst</vorname>
+        <abfahrtsOrt>Kleinandelfingen</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Ramin</nachname>
+        <vorname>Farsinejad</vorname>
+        <abfahrtsOrt>Pfungen</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Jophil</nachname>
+        <vorname>George</vorname>
+        <abfahrtsOrt>Pfungen</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Lena</nachname>
+        <vorname>Hinnen</vorname>
+        <abfahrtsOrt>Winterthur</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Jassimran</nachname>
+        <vorname>Kaur</vorname>
+        <abfahrtsOrt>Winterthur, Oberfeld</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Kevin</nachname>
+        <vorname>Lay</vorname>
+        <abfahrtsOrt>Wetzikon</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Eduard</nachname>
+        <vorname>Munteanu</vorname>
+        <abfahrtsOrt>Winterthur, Hinterwisli</abfahrtsOrt>
+        <ankunftsOrt>Winterhur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Lucian</nachname>
+        <vorname>Nicca</vorname>
+        <abfahrtsOrt>Winterthur</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Adel</nachname>
+        <vorname>Patkovic</vorname>
+        <abfahrtsOrt>Winterthur</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Julien</nachname>
+        <vorname>Rösch</vorname>
+        <abfahrtsOrt>Weisslingen</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Tuana</nachname>
+        <vorname>Savrim</vorname>
+        <abfahrtsOrt>Dachsen</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+    <person>
+        <nachname>Fabian</nachname>
+        <vorname>Ulrich</vorname>
+        <abfahrtsOrt>Rikon</abfahrtsOrt>
+        <ankunftsOrt>Winterthur, Hauptbahnhof</ankunftsOrt>
+    </person>
+</schulweg>
